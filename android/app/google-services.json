@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553679032623",
+    "project_id": "balemoyapush",
+    "storage_bucket": "balemoyapush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553679032623:android:b3e82cd682a9ba317951da",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553679032623-pa2vgg8ul43hbv2a4gtnavhignndeuji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNT8sKqQwP_UaHWVbztB7GwMV4SaUMEI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553679032623-pa2vgg8ul43hbv2a4gtnavhignndeuji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
